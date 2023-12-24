@@ -1,0 +1,53 @@
+
+body {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+  background-color: white;
+}
+
+.tituloEstilo {
+  margin-top: 0;
+  color: black;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 3rem;
+}
+
+.subtitulo {
+  font-family: 'Times New Roman', Times, serif;
+  color: brown;
+}
+
+.paginas_link {
+  color: black;
+  text-decoration: none;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.5rem;
+  margin: 1rem;
+}
+
+.paginas_link:hover {
+  color: brown;
+}
+
+.foto{
+  display: flex;
+  flex-wrap: wrap;
+  width: 30rem;
+}
+
+.contenedor_titulo{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.contenedor_imagen{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  flex-direction: column;
+  margin: 5px;
+  align-items: center;
+  
+}
