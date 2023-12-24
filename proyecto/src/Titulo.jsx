@@ -4,7 +4,7 @@ const Titulo = () => {
       <div className="row">
         <div className="col-md-12">
           <h1 class="titulo"> Hola, Mundo! </h1>
-          <h2> Probando todo </h2>
+          <h2> Probando todo! </h2>
         </div>
       </div>
     </div>
